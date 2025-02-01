@@ -10,3 +10,5 @@ def maxProfit(self, prices: list[int]) -> int:
                 buy = sell
             sell += 1
         return maxProfit
+
+# Add ex
