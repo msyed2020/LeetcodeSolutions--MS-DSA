@@ -15,3 +15,6 @@ def validPalindrome2(word: str):
 
 print(validPalindrome("nitin"))
 print(validPalindrome2("nitin"))
+
+print(validPalindrome("racecar"))
+print(validPalindrome2("racecar"))
