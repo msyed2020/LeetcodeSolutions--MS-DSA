@@ -9,3 +9,4 @@ def isArraySpecial(nums: list[int]) -> bool:
 print(isArraySpecial([1]))
 print(isArraySpecial([2,1,4]))
 print(isArraySpecial([4,3,1,6]))
+print(isArraySpecial([1,2,3,4,5]))
