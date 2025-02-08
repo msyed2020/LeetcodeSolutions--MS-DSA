@@ -10,3 +10,4 @@ def maxAscendingSum(nums: list[int]) -> int:
 print(maxAscendingSum([10,20,30,5,10,50]))
 print(maxAscendingSum([10,20,30,40,50]))
 print(maxAscendingSum([12,17,15,13,10,11,12]))
+print(maxAscendingSum([5,10,15,20]))
