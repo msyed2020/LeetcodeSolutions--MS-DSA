@@ -15,3 +15,4 @@ def maxProfit(self, prices: list[int]) -> int:
 print(maxProfit([1,2,3,4,5]))
 print(maxProfit([3,3,3,3,3]))
 print(maxProfit([4,4,4,4,4]))
+print(maxProfit([9,8,7,6,5]))
