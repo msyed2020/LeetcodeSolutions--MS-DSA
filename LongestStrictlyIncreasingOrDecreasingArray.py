@@ -16,3 +16,4 @@ def longestMonotonicSubarray(self, nums: list[int]) -> int:
 print(longestMonotonicSubarray([1,4,3,3,2]))
 print(longestMonotonicSubarray([3,3,3,3]))
 print(longestMonotonicSubarray([3,2,1]))
+print(longestMonotonicSubarray([1,1,1,1]))
